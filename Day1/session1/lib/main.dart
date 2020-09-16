@@ -33,7 +33,10 @@ class _textDemoState extends State<textDemo> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            Text("Hema"),
             Text("Hema")
+
+
           ],
         ),
       ),
